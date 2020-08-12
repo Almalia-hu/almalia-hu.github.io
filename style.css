@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,600&display=swap');
+
+body{
+    font-family: 'Lora', serif;
+}
+
+h1 {
+    color:maroon;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: aqua;
+}
+h3{
+    font-size: x-large;
+}
+
+
+#bio-header{
+    color: saddlebrown;
+
+}
+#skills-header{
+    color: indianred;
+}
+
+.content {
+    color: rgb(13, 107, 28);
+    font-size: 20px;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+.bold{
+    font-weight: bold;
+}
+.img-div{
+    border: 4px medium lightcoral;
+    background-color: lightskyblue;
+}
+
+img{
+    width: 200px;
+}
